@@ -4,6 +4,10 @@
 
 我们希望把想法做成能够持续使用、不断改进的产品。每个项目围绕具体问题独立建设，在共同的 Radish 品牌下持续成长。
 
+> 🌱 **成立于 2026 年 10 月 1 日**
+>
+> 这一天，Radish Intelligence GitHub 组织正式建立。以此为记，继续把想法做成作品。
+
 [系列官网](https://radishx.com/) · [维护者](https://github.com/laugh0608) · [联系邮箱](mailto:email@radishx.com)
 
 ## 暂定公司名称与 Logo
