@@ -4,7 +4,7 @@
 
 我们希望把想法做成能够持续使用、不断改进的产品。每个项目围绕具体问题独立建设，在共同的 Radish 品牌下持续成长。
 
-[系列官网](https://radishx.com/) · [维护者](https://github.com/laugh0608) · [联系邮箱](mailto:luobo0608@foxmail.com)
+[系列官网](https://radishx.com/) · [维护者](https://github.com/laugh0608) · [联系邮箱](mailto:email@radishx.com)
 
 ## 暂定公司名称与 Logo
 
@@ -46,7 +46,7 @@
 ## 交流与参与
 
 - 问题反馈与功能建议：请前往对应项目仓库，按其说明参与；已开放 Issues 的项目可直接提交反馈。
-- 项目交流与合作：[luobo0608@foxmail.com](mailto:luobo0608@foxmail.com)。
+- 项目交流与合作：[email@radishx.com](mailto:email@radishx.com)。
 - 维护者：[laugh0608](https://github.com/laugh0608) · [个人主页](https://www.imbhj.com/)。
 - 微信公众号：**大白萝卜的坑**，分享项目动态与开发记录。
 
