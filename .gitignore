@@ -1,0 +1,7 @@
+# JetBrains 本地项目配置
+.idea/
+*.iml
+
+# macOS 元数据
+.DS_Store
+._*
