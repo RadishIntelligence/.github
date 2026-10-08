@@ -47,6 +47,18 @@
 
 [RadishX](https://radishx.com/) 是整个系列的官网与统一入口，提供项目介绍、联系方式，以及虚拟形象“萝小白”的展示。官网源码位于 [RadishX 仓库](https://github.com/laugh0608/RadishX)。
 
+## ❤️ 我们的成员
+
+一起把想法做成作品。
+
+<p>
+  <a href="https://github.com/laugh0608"><img src="https://github.com/laugh0608.png" width="64" height="64" alt="laugh0608" title="laugh0608" /></a>
+  <a href="https://github.com/kingsAir"><img src="https://github.com/kingsAir.png" width="64" height="64" alt="kingsAir" title="kingsAir" /></a>
+  <a href="https://github.com/BYSF-1"><img src="https://github.com/BYSF-1.png" width="64" height="64" alt="BYSF-1" title="BYSF-1" /></a>
+  <a href="https://github.com/wenxiaoshuo"><img src="https://github.com/wenxiaoshuo.png" width="64" height="64" alt="wenxiaoshuo" title="wenxiaoshuo" /></a>
+  <a href="https://github.com/Ahuaisnotficklehearted"><img src="https://github.com/Ahuaisnotficklehearted.png" width="64" height="64" alt="Ahuaisnotficklehearted" title="Ahuaisnotficklehearted" /></a>
+</p>
+
 ## 交流与参与
 
 - 问题反馈与功能建议：请前往对应项目仓库，按其说明参与；已开放 Issues 的项目可直接提交反馈。
