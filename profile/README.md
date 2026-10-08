@@ -57,6 +57,7 @@
   <a href="https://github.com/BYSF-1"><img src="https://github.com/BYSF-1.png" width="64" height="64" alt="BYSF-1" title="BYSF-1" /></a>
   <a href="https://github.com/wenxiaoshuo"><img src="https://github.com/wenxiaoshuo.png" width="64" height="64" alt="wenxiaoshuo" title="wenxiaoshuo" /></a>
   <a href="https://github.com/Ahuaisnotficklehearted"><img src="https://github.com/Ahuaisnotficklehearted.png" width="64" height="64" alt="Ahuaisnotficklehearted" title="Ahuaisnotficklehearted" /></a>
+  <a href="https://github.com/luxiaoguo0225"><img src="https://github.com/luxiaoguo0225.png" width="64" height="64" alt="luxiaoguo0225" title="luxiaoguo0225" /></a>
 </p>
 
 ## 交流与参与
