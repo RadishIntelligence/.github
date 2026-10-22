@@ -69,3 +69,16 @@
 - 微信公众号：**大白萝卜的坑**，分享项目动态与开发记录。
 
 代码、文档与品牌素材的使用范围以各仓库的许可证和相关说明为准。
+
+## Active Trends
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=11855343&activity=active&period=past_28_days" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=11855343&activity=active&period=past_28_days&image_size=4x7&color_scheme=dark" width="657" height="auto">
+    <img alt="Active trends of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=11855343&activity=active&period=past_28_days&image_size=4x7&color_scheme=light" width="657" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
