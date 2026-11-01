@@ -27,6 +27,8 @@
 
 ## 项目一览
 
+十三个独立产品，各自建设，按成熟度逐步开放。
+
 | 项目 | 方向 |
 | --- | --- |
 | [Radish](https://github.com/laugh0608/Radish) | 面向兴趣与创作者群体的现代社区，连接创作、讨论与知识沉淀。 |
@@ -38,6 +40,10 @@
 | [RadishLink](https://github.com/laugh0608/RadishLink) | 离线自组网通信设备与协议探索，关注无互联网场景下的小队联系。 |
 | [RadishMemory](https://github.com/laugh0608/RadishMemory) | 用户拥有、模型无关的个人长期记忆与上下文系统。 |
 | [RadishNexus](https://github.com/laugh0608/RadishNexus) | 面向研发团队、自部署优先的沟通、协作与交付枢纽。 |
+| [RadishInk](https://github.com/laugh0608/RadishInk) | Markdown 写作与微信公众号排版工具，持续建设文章资源与自托管工作区。 |
+| [RadishLedger](https://github.com/laugh0608/RadishLedger) | 本地优先的私人账簿，探索端到端加密同步与可恢复的数据管理。 |
+| [RadishRoot](https://github.com/laugh0608/RadishRoot) | 可解释操作与结构化交互的 Rust 实验操作系统。 |
+| [RadishForge](https://github.com/laugh0608/RadishForge) | 从代码到可交付版本的自托管研发工作台。 |
 
 [RadishAxiomChecker](https://github.com/laugh0608/RadishAxiomChecker) 是 RadishAxiom 配套的独立语义与证据检查器，与 Axiom 共同构成一个产品。
 
@@ -65,20 +71,7 @@
 
 - 问题反馈与功能建议：请前往对应项目仓库，按其说明参与；已开放 Issues 的项目可直接提交反馈。
 - 项目交流与合作：[email@radishx.com](mailto:email@radishx.com)。
-- 维护者：[laugh0608](https://github.com/laugh0608) · [个人主页](https://www.imbhj.com/)。
+- 维护者：[laugh0608](https://github.com/laugh0608) · [个人主页](https://imbhj.com/)。
 - 微信公众号：**大白萝卜的坑**，分享项目动态与开发记录。
 
 代码、文档与品牌素材的使用范围以各仓库的许可证和相关说明为准。
-
-## Active Trends
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-growth?owner_id=11855343&activity=active&period=past_28_days" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=11855343&activity=active&period=past_28_days&image_size=4x7&color_scheme=dark" width="657" height="auto">
-    <img alt="Active trends of pingcap" src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?owner_id=11855343&activity=active&period=past_28_days&image_size=4x7&color_scheme=light" width="657" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
