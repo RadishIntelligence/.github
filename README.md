@@ -51,7 +51,7 @@ RadishIntelligence-Profile/
 - 两份 README 同步维护暂定名称、Logo 版本及“公司尚未成立、方案可能随时更改”的说明。
 - 成员墙在 `profile/README.md` 的“我们的成员”章节手动维护；每位成员对应一行头像与 GitHub 主页链接，按源码顺序展示。新增或调整成员时，同步修改该行的用户名、链接、头像地址及提示文字，提交并推送后生效。
 - 组织介绍保持“由个人发起和维护”的实际定位；产品定位与入口参考 [RadishX 仓库](https://github.com/laugh0608/RadishX)，具体能力、发布状态与使用方式以各项目文档为准。
-- 项目矩阵按十三个产品组织；`RadishX` 是官网，`RadishAxiomChecker` 是 `RadishAxiom` 的配套检查器。
+- 项目矩阵按十三个产品组织；`RadishX` 是官网，`RadishAxiomChecker` 是 `RadishAxiom` 的配套检查器，`RadishUI` 作为共享设计系统单独介绍。
 - 仓库链接按已确认的实际地址维护；项目转移后再核验并更新，不提前替换为尚不存在的组织地址。
 - 仅列出有依据的公开入口，不将规划域名、开发目标或内部验证成果写成已上线服务。
 - 各项目的许可与素材使用范围以对应仓库说明为准，本仓库不统一授予授权。
@@ -61,4 +61,5 @@ RadishIntelligence-Profile/
 - [GitHub 组织](https://github.com/RadishIntelligence)
 - [组织主页文案](profile/README.md)
 - [RadishX 官网](https://radishx.com/)
+- [RadishUI 设计系统预览](https://ui.radishx.com/) · [源码](https://github.com/RadishIntelligence/RadishUI)
 - [维护者 GitHub](https://github.com/laugh0608)

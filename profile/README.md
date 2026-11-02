@@ -53,6 +53,14 @@
 
 [RadishX](https://radishx.com/) 是整个系列的官网与统一入口，提供项目介绍、联系方式，以及虚拟形象“萝小白”的展示。官网源码位于 [RadishX 仓库](https://github.com/laugh0608/RadishX)。
 
+## 共享设计系统
+
+[RadishUI](https://github.com/RadishIntelligence/RadishUI) 集中维护家族的视觉基础、通用组件与界面范例，作为十三个产品之外的共享基础设施。
+
+[访问设计系统预览](https://ui.radishx.com/) · [阅读项目文档](https://github.com/RadishIntelligence/RadishUI/tree/master/docs)
+
+当前为工程预览，已建立亮暗语义 token、首个 React 组件与展示站；Flutter 适配和产品接入逐步建设。
+
 ## ❤️ 我们的成员
 
 一起把想法做成作品。
