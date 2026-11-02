@@ -8,7 +8,7 @@
 
 > **暂定方案说明：目前尚未成立公司，Radish 项目系列仍由个人发起和维护。以下公司名称仅为拟用名称；中英文名称、品牌名、简写及 Logo 均为暂定方案，后续可能随时更改，不代表已注册或已成立的公司。**
 
-![暂定 V9 Logo 与拟用中英文公司名称；公司尚未成立，方案可能随时更改](profile/assets/company-lockup-v9.png)
+![暂定 V9 Logo 与拟用中英文公司名称，3:2 展示版；公司尚未成立，方案可能随时更改](profile/assets/company-lockup-v9-profile-3x2.png)
 
 | 项目 | 暂定内容 |
 | --- | --- |
@@ -19,7 +19,9 @@
 | 品牌简写 | RI |
 | Logo | 第九稿（V9），2026-09-27 选定的暂定基准 |
 
-图片沿用 RadishX 的 `assets/brand/radish-intelligence/selected-v9/company-lockup.png`，以原始 PNG 副本保存在本仓库，未裁切、压缩或重新生成。2026-10-01 按所有者要求用于本仓库与组织主页说明；该展示不授予第三方素材复用权利。
+原始组合图沿用 RadishX 的 `assets/brand/radish-intelligence/selected-v9/company-lockup.png`，以原始 PNG 副本 `profile/assets/company-lockup-v9.png` 保存在本仓库，未裁切、压缩或重新生成。2026-10-01 按所有者要求用于本仓库与组织主页说明。
+
+2026-11-02 按所有者要求，使用内置 imagegen 基于 V9 组合图与提供的参考图制作 3:2 展示版（1536 × 1024），调整图形、文字的相对尺寸、间距与四周留白。两份 README 共用该展示版；原始组合图保留，V9 暂定基准不变。以上展示不授予第三方素材复用权利。
 
 ## 文件用途
 
@@ -27,7 +29,8 @@
 | --- | --- |
 | `README.md` | 说明本仓库的结构与维护方式，展示在仓库首页。 |
 | `profile/README.md` | 面向访客的组织介绍，展示在 GitHub 组织的 Overview 页面。 |
-| `profile/assets/company-lockup-v9.png` | 两份 README 共用的 V9 Logo 与拟用中英文公司名称组合图。 |
+| `profile/assets/company-lockup-v9.png` | 保留的 V9 Logo 与拟用中英文公司名称原始组合图（2400 × 1200）。 |
+| `profile/assets/company-lockup-v9-profile-3x2.png` | 两份 README 共用的 3:2 展示版（1536 × 1024）。 |
 
 当前仓库维护以上两份说明文档及配套品牌展示图片，尚未提供组织级 Issue 模板、Pull Request 模板或其他公共协作配置。
 
@@ -41,7 +44,8 @@ RadishIntelligence-Profile/
 └── profile/
     ├── README.md
     └── assets/
-        └── company-lockup-v9.png
+        ├── company-lockup-v9.png
+        └── company-lockup-v9-profile-3x2.png
 ```
 
 组织主页使用公开 `.github` 仓库中的 `profile/README.md`。更新后需提交并推送到远程默认分支，才会更新线上展示。展示规则见 [GitHub 官方文档](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)。
