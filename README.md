@@ -8,7 +8,9 @@
 
 > **暂定方案说明：目前尚未成立公司，Radish 项目系列仍由个人发起和维护。以下公司名称仅为拟用名称；中英文名称、品牌名、简写及 Logo 均为暂定方案，后续可能随时更改，不代表已注册或已成立的公司。**
 
-![暂定 V9 Logo 与拟用中英文公司名称，3:2 展示版；公司尚未成立，方案可能随时更改](profile/assets/company-lockup-v9-profile-3x2.png)
+<p align="center">
+  <img src="profile/assets/company-lockup-v9-profile-3x2.png" alt="暂定 V9 Logo 与拟用中英文公司名称，3:2 展示版；公司尚未成立，方案可能随时更改" width="600" />
+</p>
 
 | 项目 | 暂定内容 |
 | --- | --- |
@@ -27,6 +29,8 @@
 
 同日基于两款已确认构图，使用内置 imagegen 各制作一张独立的深色模式样张，均为 1536 × 1024（3:2）。深色样张采用墨绿色背景、浅色文字与 Logo 轮廓，保留绿色叶片，沿用对应亮色版的排布与留白。
 
+同日补充两张单色上下版样张（1536 × 1024，3:2）：白底黑线黑字、黑底白线白字，三片叶子均去掉内部填色，保留轮廓。两份 README 继续使用亮色彩色上下版，通过 HTML `width="600"` 居中限制展示宽度，减少页面占用；图片文件本身的尺寸保持不变。
+
 ## 文件用途
 
 | 文件 | 用途 |
@@ -38,6 +42,8 @@
 | `profile/assets/company-lockup-v9-profile-horizontal-3x2.png` | 独立的 3:2 亮色左右展示版（1536 × 1024），所有者已确认保留。 |
 | `profile/assets/company-lockup-v9-profile-dark-3x2.png` | 3:2 深色上下版样张（1536 × 1024）。 |
 | `profile/assets/company-lockup-v9-profile-horizontal-dark-3x2.png` | 3:2 深色左右版样张（1536 × 1024）。 |
+| `profile/assets/company-lockup-v9-profile-mono-light-3x2.png` | 3:2 白底黑线黑字上下版样张，叶片空心（1536 × 1024）。 |
+| `profile/assets/company-lockup-v9-profile-mono-dark-3x2.png` | 3:2 黑底白线白字上下版样张，叶片空心（1536 × 1024）。 |
 
 当前仓库维护以上两份说明文档及配套品牌展示图片，尚未提供组织级 Issue 模板、Pull Request 模板或其他公共协作配置。
 
@@ -55,7 +61,9 @@ RadishIntelligence-Profile/
         ├── company-lockup-v9-profile-3x2.png
         ├── company-lockup-v9-profile-horizontal-3x2.png
         ├── company-lockup-v9-profile-dark-3x2.png
-        └── company-lockup-v9-profile-horizontal-dark-3x2.png
+        ├── company-lockup-v9-profile-horizontal-dark-3x2.png
+        ├── company-lockup-v9-profile-mono-light-3x2.png
+        └── company-lockup-v9-profile-mono-dark-3x2.png
 ```
 
 组织主页使用公开 `.github` 仓库中的 `profile/README.md`。更新后需提交并推送到远程默认分支，才会更新线上展示。展示规则见 [GitHub 官方文档](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)。
