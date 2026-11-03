@@ -21,7 +21,11 @@
 
 原始组合图沿用 RadishX 的 `assets/brand/radish-intelligence/selected-v9/company-lockup.png`，以原始 PNG 副本 `profile/assets/company-lockup-v9.png` 保存在本仓库，未裁切、压缩或重新生成。2026-10-01 按所有者要求用于本仓库与组织主页说明。
 
-2026-11-02 按所有者要求，使用内置 imagegen 基于 V9 组合图与提供的参考图制作 3:2 展示版（1536 × 1024），调整图形、文字的相对尺寸、间距与四周留白。两份 README 共用该展示版；原始组合图保留，V9 暂定基准不变。以上展示不授予第三方素材复用权利。
+2026-11-02 按所有者要求，使用内置 imagegen 基于 V9 组合图制作 3:2 展示版（1536 × 1024）：Logo 居中置于上方，中英文全名在下方居中排列，放大文字并缩减上下空白，保留四周安全边距。两份 README 共用该展示版；原始组合图保留，V9 暂定基准不变。以上展示不授予第三方素材复用权利。
+
+2026-11-03 使用内置 imagegen 另制作独立的 3:2 左右版（1536 × 1024）：Logo 在左，公司名在右，中文分两行、英文分三行，使文字块与 Logo 高度接近。所有者已确认保留亮色上下版和左右版，组织主页使用亮色上下版。
+
+同日基于两款已确认构图，使用内置 imagegen 各制作一张独立的深色模式样张，均为 1536 × 1024（3:2）。深色样张采用墨绿色背景、浅色文字与 Logo 轮廓，保留绿色叶片，沿用对应亮色版的排布与留白。
 
 ## 文件用途
 
@@ -30,7 +34,10 @@
 | `README.md` | 说明本仓库的结构与维护方式，展示在仓库首页。 |
 | `profile/README.md` | 面向访客的组织介绍，展示在 GitHub 组织的 Overview 页面。 |
 | `profile/assets/company-lockup-v9.png` | 保留的 V9 Logo 与拟用中英文公司名称原始组合图（2400 × 1200）。 |
-| `profile/assets/company-lockup-v9-profile-3x2.png` | 两份 README 共用的 3:2 展示版（1536 × 1024）。 |
+| `profile/assets/company-lockup-v9-profile-3x2.png` | 两份 README 共用的 3:2 亮色上下展示版（1536 × 1024），所有者已确认使用。 |
+| `profile/assets/company-lockup-v9-profile-horizontal-3x2.png` | 独立的 3:2 亮色左右展示版（1536 × 1024），所有者已确认保留。 |
+| `profile/assets/company-lockup-v9-profile-dark-3x2.png` | 3:2 深色上下版样张（1536 × 1024）。 |
+| `profile/assets/company-lockup-v9-profile-horizontal-dark-3x2.png` | 3:2 深色左右版样张（1536 × 1024）。 |
 
 当前仓库维护以上两份说明文档及配套品牌展示图片，尚未提供组织级 Issue 模板、Pull Request 模板或其他公共协作配置。
 
@@ -45,7 +52,10 @@ RadishIntelligence-Profile/
     ├── README.md
     └── assets/
         ├── company-lockup-v9.png
-        └── company-lockup-v9-profile-3x2.png
+        ├── company-lockup-v9-profile-3x2.png
+        ├── company-lockup-v9-profile-horizontal-3x2.png
+        ├── company-lockup-v9-profile-dark-3x2.png
+        └── company-lockup-v9-profile-horizontal-dark-3x2.png
 ```
 
 组织主页使用公开 `.github` 仓库中的 `profile/README.md`。更新后需提交并推送到远程默认分支，才会更新线上展示。展示规则见 [GitHub 官方文档](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)。
