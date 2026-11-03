@@ -14,8 +14,8 @@
 
 > **暂定方案说明：目前尚未成立公司，Radish 项目系列仍由个人发起和维护。以下公司名称仅为拟用名称；中英文名称、品牌名、简写及 Logo 均为暂定方案，后续可能随时更改，不代表已注册或已成立的公司。**
 
-<p align="center">
-  <img src="assets/company-lockup-v9-profile-3x2.png" alt="暂定 V9 Logo 与拟用中英文公司名称，3:2 展示版；公司尚未成立，方案可能随时更改" width="600" />
+<p align="left">
+  <img src="assets/company-lockup-v9-profile-3x2.png" alt="暂定 V9 Logo 与拟用中英文公司名称，3:2 展示版；公司尚未成立，方案可能随时更改" width="300" />
 </p>
 
 | 项目 | 暂定内容 |
