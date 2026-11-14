@@ -83,5 +83,6 @@
 - 项目交流与合作：[email@radishx.com](mailto:email@radishx.com)。
 - 维护者：[laugh0608](https://github.com/laugh0608) · [个人主页](https://imbhj.com/)。
 - 微信公众号：**大白萝卜的坑**，分享项目动态与开发记录。
+- QQ 群：1005052561
 
 代码、文档与品牌素材的使用范围以各仓库的许可证和相关说明为准。
