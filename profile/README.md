@@ -53,7 +53,7 @@
 
 ## 官网与品牌
 
-[RadishX](https://radishx.com/) 是整个系列的官网与统一入口，提供项目介绍、联系方式，以及虚拟形象“萝小白”的展示。官网源码位于 [RadishX 仓库](https://github.com/laugh0608/RadishX)。
+[RadishX](https://radishx.com/) 是整个系列的官网与统一入口，提供项目介绍、联系方式，以及虚拟形象“萝小白”的展示。官网源码位于 [RadishX 仓库](https://github.com/RadishIntelligence/RadishX)。
 
 ## 共享设计系统
 
