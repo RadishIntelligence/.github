@@ -29,7 +29,7 @@
 
 ## 项目一览
 
-十三个独立产品，各自建设，按成熟度逐步开放。
+十四个独立产品，各自建设，按成熟度逐步开放。
 
 | 项目 | 方向 |
 | --- | --- |
@@ -39,13 +39,14 @@
 | [RadishMind](https://github.com/laugh0608/RadishMind) | AI 应用、工作流与模型集成平台，围绕受控运行、结果审查与验证组织工作。 |
 | [RadishLex](https://github.com/laugh0608/RadishLex) | 本地优先的中文输入系统，围绕离线输入、个人化与隐私保护持续建设。 |
 | [RadishAxiom](https://github.com/laugh0608/RadishAxiom) | 面向 AI Agent 的验证优先语言与可信语义层。 |
-| [RadishLink](https://github.com/laugh0608/RadishLink) | 离线自组网通信设备与协议探索，关注无互联网场景下的小队联系。 |
+| [RadishLink](https://github.com/RadishIntelligence/RadishLink) | 离线自组网通信设备与协议探索，关注无互联网场景下的小队联系。 |
 | [RadishMemory](https://github.com/laugh0608/RadishMemory) | 用户拥有、模型无关的个人长期记忆与上下文系统。 |
 | [RadishNexus](https://github.com/laugh0608/RadishNexus) | 面向研发团队、自部署优先的沟通、协作与交付枢纽。 |
 | [RadishInk](https://github.com/laugh0608/RadishInk) | Markdown 写作与微信公众号排版工具，持续建设文章资源与自托管工作区。 |
 | [RadishLedger](https://github.com/laugh0608/RadishLedger) | 本地优先的私人账簿，探索端到端加密同步与可恢复的数据管理。 |
 | [RadishRoot](https://github.com/laugh0608/RadishRoot) | 可解释操作与结构化交互的 Rust 实验操作系统。 |
 | [RadishForge](https://github.com/laugh0608/RadishForge) | 从代码到可交付版本的自托管研发工作台。 |
+| [RadishChat](https://github.com/laugh0608/RadishChat) | 面向日常私聊、小群和 Markdown 消息的独立即时通讯工具。 |
 
 [RadishAxiomChecker](https://github.com/laugh0608/RadishAxiomChecker) 是 RadishAxiom 配套的独立语义与证据检查器，与 Axiom 共同构成一个产品。
 
@@ -57,11 +58,11 @@
 
 ## 共享设计系统
 
-[RadishUI](https://github.com/RadishIntelligence/RadishUI) 集中维护家族的视觉基础、通用组件与界面范例，作为十三个产品之外的共享基础设施。
+[RadishUI](https://github.com/RadishIntelligence/RadishUI) 集中维护家族的视觉基础、通用组件与界面范例，作为十四个产品之外的共享基础设施。
 
 [访问设计系统预览](https://ui.radishx.com/) · [阅读项目文档](https://github.com/RadishIntelligence/RadishUI/tree/master/docs)
 
-当前为工程预览，已建立亮暗语义 token、首个 React 组件与展示站；Flutter 适配和产品接入逐步建设。
+当前为工程预览。Workbench 提供亮暗语义 token、共享 React 组件和界面示例。RadishX 的 About 页面已有限接入。
 
 ## ❤️ 我们的成员
 
