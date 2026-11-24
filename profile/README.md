@@ -42,7 +42,7 @@
 | [RadishLink](https://github.com/RadishIntelligence/RadishLink) | 离线自组网通信设备与协议探索，关注无互联网场景下的小队联系。 |
 | [RadishMemory](https://github.com/laugh0608/RadishMemory) | 用户拥有、模型无关的个人长期记忆与上下文系统。 |
 | [RadishNexus](https://github.com/laugh0608/RadishNexus) | 面向研发团队、自部署优先的沟通、协作与交付枢纽。 |
-| [RadishInk](https://github.com/laugh0608/RadishInk) | Markdown 写作与微信公众号排版工具，持续建设文章资源与自托管工作区。 |
+| [RadishInk](https://github.com/RadishIntelligence/RadishInk) | Markdown 写作与微信公众号排版工具，持续建设文章资源与自托管工作区。 |
 | [RadishLedger](https://github.com/laugh0608/RadishLedger) | 本地优先的私人账簿，探索端到端加密同步与可恢复的数据管理。 |
 | [RadishRoot](https://github.com/laugh0608/RadishRoot) | 可解释操作与结构化交互的 Rust 实验操作系统。 |
 | [RadishForge](https://github.com/laugh0608/RadishForge) | 从代码到可交付版本的自托管研发工作台。 |
