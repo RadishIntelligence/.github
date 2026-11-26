@@ -1,0 +1,28 @@
+name: Repository Assets
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  repository-assets:
+    name: Binary assets
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Check binary asset policy
+        shell: bash
+        env:
+          RADISH_ASSET_BASE: ${{ github.event.pull_request.base.sha || github.event.before }}
+          RADISH_ASSET_HEAD: ${{ github.event.pull_request.head.sha || github.sha }}
+        run: bash .radish-assets/check.sh --range "$RADISH_ASSET_BASE" "$RADISH_ASSET_HEAD"
+      - name: Regression tests
+        run: bash asset-policy/v1/test.sh
